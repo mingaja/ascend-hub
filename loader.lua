@@ -3,7 +3,7 @@
 --   GitHub: https://github.com/USERNAME/REPO
 -- ================================================
 
-local RAW = "https://raw.githubusercontent.com/USERNAME/REPO/main"
+local RAW = "https://raw.githubusercontent.com/mingaja/ascend-hub/main"
 
 -- ================================================
 --   DAFTAR GAME (tambah di sini terus)
@@ -11,10 +11,8 @@ local RAW = "https://raw.githubusercontent.com/USERNAME/REPO/main"
 -- ================================================
 
 local GAMES = {
-    ["2753915549"] = "games/bloxfruits/main.lua",
-    ["142823291"]  = "games/bedwars/main.lua",
-    ["1537690962"] = "games/arsenal/main.lua",
-    ["6872265039"] = "games/brookhaven/main.lua",
+    ["93978595733734"] = "games/vd/main.lua",
+
     -- tambah game baru di sini:
     -- ["PLACEID"] = "games/NAMA/main.lua",
 }
