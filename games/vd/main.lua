@@ -1,27 +1,3 @@
--- Docs 
--- https://github.com/sarahsophiesee-bot/SigilUI/blob/main/README.md
-
-local Sigil = loadstring(game:HttpGet("https://cdn.jnkie.com/SigilUI.lua"))()
-
-Sigil.Appearance = {
-    Title           = "Ascend Official",
-    Subtitle        = "Enter your key to continue",
-    KeylessTitle    = "Ascend",
-    KeylessSubtitle = "No key required for this build - you're verified.",
-    Icon            = "",   -- optional rbxassetid:// shown left of the wordmark
-}
-
-Sigil.Links.Discord = "https://discord.gg/2tyykkv2Kd"
-Sigil.Storage.FileName = "Jnkie_key"
--- Sigil.Options.KeylessUi = "true"
-
-
-Sigil:LaunchJunkie({
-    Service = "Ascend Premium",
-    Identifier = "1213946",
-    Provider = "Ascend"
-})
-
 
 -- This file was protected using Luraph Obfuscator v14.9 [https://lura.ph/]
 
